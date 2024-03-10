@@ -1,3 +1,6 @@
+   ![image](https://github.com/22bdo10074/22bdo10074/assets/142095565/3a45f787-bcec-456b-bc3d-f4c7714d4131)
+
+
 <h1 align="center">Hi 👋, I'm Sandhya</h1>
 <h3 align="center">I am a passionate learner currently specializing in DevOps. With a keen interest in technology and a knack for problem-solving, I am constantly exploring new horizons in the realm of tach field. This README serves as an introduction to my skills, projects, and journey in the world of software development and operations.</h3>
 
