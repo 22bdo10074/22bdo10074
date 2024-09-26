@@ -1,6 +1,6 @@
    ![image](https://github.com/22bdo10074/22bdo10074/assets/142095565/ba5a4188-393c-467e-99bc-ae55f87ed525)
 <h1 align="center">Hi 👋, I'm Sandhya</h1>
-<h3 align="center">I am a passionate learner currently specializing in DevOps. With a keen interest in technology and a knack for problem-solving, I am constantly exploring new horizons in the realm of tach field. This README serves as an introduction to my skills, projects, and journey in the world of software development and operations.</h3>
+<h3 align="center">I am a passionate learner currently specializing in DevOps. With a keen interest in technology and a knack for problem-solving, I am constantly exploring new horizons in the realm of tech field. This README serves as an introduction to my skills, projects, and journey in the world of software development and operations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=22bdo10074&label=Profile%20views&color=0e75b6&style=flat" alt="22bdo10074" /> </p>
 
