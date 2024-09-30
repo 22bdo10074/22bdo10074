@@ -12,13 +12,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sandhya-53949825a/">
-  <img src="C:\Users\Sandhya\Downloads\linkedin_img.webp" alt="LinkedIn Logo" width="20" height="20">LinkedIn
+  <a href="https://www.linkedin.com/in/sandhya-53949825a/">linkedin
+ 
   </a>
   <a href="https://github.com/22bdo10074">GitHub
-  <img src="C:\Users\Sandhya\Downloads\github-img.jpeg" alt="GitHub Logo" width="24" height="24"> GitHub
-<a href="https://twitter.com/SandhyaKum48424">
-  <img src="C:\Users\Sandhya\Downloads\twitter-img.jpg" alt="Twitter Logo" width="24" height="24"> GitHubTwitter
+  </a>
+  
+<a href="https://twitter.com/SandhyaKum48424">Twitter
 </a>
 
 </p>
