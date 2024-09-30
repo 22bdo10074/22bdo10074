@@ -12,11 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sandhya-53949825a/">linkedin
- 
-  </a>
-  <a href="https://github.com/22bdo10074">GitHub
-  </a>
+  <a href="https://www.linkedin.com/in/sandhya-53949825a/">linkedin </a>
+   
+  <a href="https://github.com/22bdo10074">GitHub</a>
   
 <a href="https://twitter.com/SandhyaKum48424">Twitter
 </a>
